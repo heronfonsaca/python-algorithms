@@ -16,6 +16,9 @@ jobs:
           python-version: ${{ matrix.python-version }}
       - run: python -mpip install --upgrade pip tox virtualenv
       - run: tox -e py
+      - uses: codecov/codecov-action@v2
+        with:
+          file: coverage.xml
 
   lint:
     runs-on: ubuntu-latest
