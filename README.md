@@ -1,5 +1,6 @@
 # 🐍 Algorithms
 <a href="https://github.com/heronfonsaca/python-algorithms/actions"><img alt="Actions status" src="https://github.com/heronfonsaca/python-algorithms/actions/workflows/main.yml/badge.svg"></a>
+<a href="https://codecov.io/gh/heronfonsaca/python-algorithms"><img src="https://codecov.io/gh/heronfonsaca/python-algorithms/branch/main/graph/badge.svg?token=9CIF8E79QO"/></a>
 <a href="https://github.com/psf/black"><img alt="Code style: black" src="https://img.shields.io/badge/code%20style-black-000000.svg"></a>
 
 Well-known computer science algorithms published for practice and educational purposes.
